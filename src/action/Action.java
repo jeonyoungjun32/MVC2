@@ -16,5 +16,5 @@ public interface Action {
 	// 반드시 자식 객체 재 정의 해야한다!!
 public ActionForward exeute(HttpServletRequest request,
 		HttpServletResponse response) throws Exception;
-
+//asdqweqwe
 }
